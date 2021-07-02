@@ -14,4 +14,4 @@ Per l'esercizio 10.2 compilare con *make esercizio10.2.exe* ed eseguire con *mpi
 
 ### Altri commenti ###
 
-L'esercizio 10 è diviso in due cartelle: Esercizio_10 ed Esercizio_10.2. Il jupyter notebook per queste due cartelle è lo stesso ma cambiano i codici, nella prima cartella sono presenti i codici dell'esercizio10.1, nella seconda i codici dell'esercizio10.2.
+L'esercizio 10 è diviso in due cartelle: Esercizio_10 ed Esercizio_10.2. Il jupyter notebook in esse è lo stesso ma cambiano i codici, nella prima cartella sono presenti i codici dell'esercizio10.1, nella seconda i codici dell'esercizio10.2.
