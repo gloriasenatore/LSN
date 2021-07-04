@@ -22,7 +22,6 @@ funzioni.o : funzioni.cpp funzioni.h
 	$(CC) -c funzioni.cpp -o funzioni.o $(CFLAGS)
 
 clean :
-	rm *.o main.exe seed.out
 	rm *.o esercizio1.exe
 	rm *.o esercizio1.2.exe
 	rm *.o esercizio1.3.exe
