@@ -99,7 +99,7 @@ void Input(bool restart){ //Prepare all stuff for the simulation
 
   double pi = M_PI;
 
-  //Tail corrections for potential energy and pressure
+  //Tail corrections for potential energy
   //vtail = (8.0*pi*rho)/(9.0*pow(rcut,9)) - (8.0*pi*rho)/(3.0*pow(rcut,3));
   //cout << "Tail correction for the potential energy = " << vtail << endl;
 
